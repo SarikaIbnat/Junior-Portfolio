@@ -17,10 +17,10 @@ body {
   text-align: center;
   border-bottom: 2px solid #aaa;
   backdrop-filter: blur(4px);
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
+  width: 100%;         /* 🔹 This makes it span full screen */
+  box-sizing: border-box; /* 🔹 Ensures padding doesn't overflow */
 }
+
 
 /* Center the links inside the header */
 .header table {
