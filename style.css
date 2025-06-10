@@ -17,11 +17,7 @@ body {
   text-align: center;
   border-bottom: 2px solid #aaa;
   backdrop-filter: blur(4px);
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
 }
-
 
 
 /* Main container */
