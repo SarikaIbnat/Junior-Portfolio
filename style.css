@@ -20,6 +20,9 @@ body {
   width: 100%
 }
 
+.header table {
+  margin: 0 auto;
+}
 
 /* Main container */
 .main {
