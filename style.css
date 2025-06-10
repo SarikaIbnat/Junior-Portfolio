@@ -17,6 +17,7 @@ body {
   text-align: center;
   border-bottom: 2px solid #aaa;
   backdrop-filter: blur(4px);
+  position: fixed;
 }
 
 
@@ -31,6 +32,7 @@ body {
   backdrop-filter: blur(4px);
   width: 100%;
   max-width: 900px;
+  position: fixed;
 }
 
 /* Sections */
@@ -67,4 +69,5 @@ footer {
   backdrop-filter: blur(4px);
   width: 100%;
   max-width: 900px;
+  position: fixed;
 }
