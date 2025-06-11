@@ -38,42 +38,15 @@ body {
   backdrop-filter: blur(4px);
   width: 100%;
   max-width: 900px;
-}
-
-/* Sections */
-.about {
-  background-color: rgba(255, 255, 255, 0.08);
-  padding: 20px;
-  margin: 20px 0;
-  border-radius: 10px;
-  width: 100%;
-  max-width: 600px;
-  backdrop-filter: blur(6px);
-  height: 250px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   text-align: center;
 }
 
-#content{
-   background-color: rgba(255, 255, 255, 0.08);
-  padding: 20px;
-  margin: 20px 0;
-  border-radius: 10px;
-  width: 100%;
-  max-width: 600px;
-  backdrop-filter: blur(6px);
-  align-items: center;
-  height: 250px;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-}
+
 /* Center the image inside about */
-.about img {
+.main img {
   margin: 0 auto;
   display: block;
+  
 }
 
 /* Footer */
